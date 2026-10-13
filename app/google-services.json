@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319246613148",
+    "project_id": "login-and-register-fec74",
+    "storage_bucket": "login-and-register-fec74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319246613148:android:7746e2757ef921029ecb59",
+        "android_client_info": {
+          "package_name": "com.week14.loginandregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUm2iCqDnWQDOIBht19oxGRLXMpA8OZCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
